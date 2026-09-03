@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,openevidence.com
 DOMAIN-SUFFIX,harvey.ai
 DOMAIN-SUFFIX,harvey-ai.us
+
+# Custom
+DOMAIN-SUFFIX,reddit.com
